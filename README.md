@@ -1,2 +1,3 @@
 # Excel-Sales-Analytics
-#Code Basics
+# Code Basics Course
+# Excel: Mother of Business Intelligence 
